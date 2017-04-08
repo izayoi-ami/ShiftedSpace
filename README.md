@@ -30,12 +30,12 @@ For better experience:
 
 ## Video Demostration
 
-(https://youtu.be/N4OGCYVF6M4)
+https://youtu.be/N4OGCYVF6M4
 
 
 ## Discussion
 
-(http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1446257-aurora-game-world-development-environment)
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1446257-aurora-game-world-development-environment
 
 
 ## Poster
